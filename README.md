@@ -55,7 +55,7 @@ Predicting the outbreak of COVID-19 can help public health officials and policym
 Overall, COVID-19 outbreak prediction can help stakeholders make informed decisions, allocate resources more effectively, and ultimately reduce the impact of the pandemic on public health and the economy.<br><br>
 
 ## 7.APPLICATION GALLERY
-<P><figure>
+<p><figure>
 <img src="https://user-images.githubusercontent.com/84535788/233340444-fc679383-e22f-45d4-92b6-8d68754a8fe4.png"  width="50%" height="30%"><figcaption>THIS IS THE DEVICE CAMERA VIDEO SCREENSHOT.
 </figcaption>
   <img src="https://user-images.githubusercontent.com/84535788/233346232-284a1272-61de-47f5-abc5-b4fb86d405eb.png"  width="50%" height="30%"><figcaption>1.USER IMAGE ,THE IMAGE HAS PREDICTED THE TWO BODY DISTANCE <br>2.SOMETIMES, THE APPLICATION HAS ERROR ALSO IT DON’T CALCULATE THE DISTANCE DUE TO THE MOVING BODY.
