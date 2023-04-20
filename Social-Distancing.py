@@ -46,7 +46,7 @@ while True:
         photo = cv2.putText(photo, str(D/10) + " cm", (300, 50), cv2.FONT_HERSHEY_SIMPLEX,
                    1, (255, 0, 0) , 2, cv2.LINE_AA)
 
-        cv2.imshow('LIfe Science by Aditya' , photo)
+        cv2.imshow('LIfe Science by Aditya Anand' , photo)
         if cv2.waitKey(100) == 13:
             break
 
